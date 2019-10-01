@@ -1,5 +1,3 @@
-# SimpleToDoApp
-Android (To Do) App, where a user can log tasks that they need to complete. 
 # Project 1 - SimpleToDoApp
 
 SimpleToDoApp is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
